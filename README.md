@@ -45,7 +45,7 @@ This is the backend for the [FinSphere Android App](https://github.com/Ashantfet
   - Multilingual support
   - AI based Recommendations System
 
-Detailed explanation is in our frontend [FinSphere Android App](https://github.com/sandeepshakya2019/ISE_1_Frontend)
+Detailed explanation is in our frontend [FinSphere Android App](https://github.com/Ashantfet/Finsphere_frontend/)
 
 ---
 
@@ -379,9 +379,9 @@ TWILLIO_PHONE_NUMBER=
 
 ## 6. Deployment Instructions
 
-- Clone the repository: `git clone https://github.com/sandeepshakya2019/ISE_1_Backend`
+- Clone the repository: `git clone https://github.com/Ashantfet/Finsphere_backend/`
 
-- `cd ISE_1_Backend`
+- `cd Finsphere_backend`
 - Install dependencies: `npm install`
 - Set up environment variables in a .env file.
 - Run the server: `npm start`
