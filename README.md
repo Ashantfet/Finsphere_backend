@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-This is the backend for the [FinSphere Android App](https://github.com/sandeepshakya2019/ISE_1_Frontend) , designed to provide secure user authentication, photo uploads, loan management, and user profile functionalities. The backend is built using **Node.js** with **Express.js**, integrated with **JWT authentication**, and features image upload with **Multer** and **Cloudinary**.
+This is the backend for the [FinSphere Android App](https://github.com/Ashantfet/Finsphere_frontend/) , designed to provide secure user authentication, photo uploads, loan management, and user profile functionalities. The backend is built using **Node.js** with **Express.js**, integrated with **JWT authentication**, and features image upload with **Multer** and **Cloudinary**.
 
 ---
 
